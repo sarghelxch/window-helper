@@ -5,7 +5,7 @@
 ;  WINDOW HELPER - RESIZE / CENTER / MOVE BETWEEN MONITORS
 ;  Version : 1.0.0
 ;  License : MIT
-;  Repo    : https://github.com/<your-user>/window-helper
+;  Repo    : https://github.com/sarghelxch/window-helper
 ;
 ;  Ctrl+Alt+R        : resize & center on the current monitor
 ;  Ctrl+Alt+M        : move to the next monitor (cycle)
