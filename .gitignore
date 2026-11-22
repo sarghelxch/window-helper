@@ -1,0 +1,9 @@
+# OS clutter
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+
+# Compiled scripts — distribute binaries through GitHub Releases instead
+*.exe
